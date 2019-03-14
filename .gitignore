@@ -1,0 +1,6 @@
+/.gradle
+/.idea
+/localData
+/out
+/build
+local.properties
